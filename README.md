@@ -45,4 +45,6 @@ This is a console-based application that allows users to **encrypt and decrypt m
 
 ---
 
+### Contributing
 
+Contributions are welcome! Feel free to open issues or submit pull requests.
